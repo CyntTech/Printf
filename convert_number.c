@@ -62,7 +62,7 @@ int print_HEX(va_list ap, params_t *params)
  *  print_binary - prints unsigned binary number
  *  @ap: the argument pointer
  *  @params: the parameters struct
- * 
+ *
  *  Return: bytes printed
  */
 int print_binary(va_list ap, params_t *params)
